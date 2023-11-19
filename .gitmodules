@@ -1,3 +1,6 @@
 [submodule "ISLP_labs"]
 	path = ISLP_labs
 	url = git@github.com:intro-stat-learning/ISLP_labs.git
+[submodule "chingling"]
+	path = chingling
+	url = git@gitlab.cs.uni-saarland.de:cg1/ws23/chingling.git
