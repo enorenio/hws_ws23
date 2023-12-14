@@ -4,3 +4,6 @@
 [submodule "chingling"]
 	path = chingling
 	url = git@gitlab.cs.uni-saarland.de:cg1/ws23/chingling.git
+[submodule "nnti_hw6"]
+	path = nnti_hw6
+	url = git@gitlab.cs.uni-saarland.de:almo00008/torch-condor-template.git
